@@ -1,0 +1,15 @@
+#product-list-container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.product {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+img {
+    width: 300px;
+}
